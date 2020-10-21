@@ -9,40 +9,35 @@ Welcome to an exploratory analysis using python scripts with Pandas libraries, J
 
 ## Results
 
-The results will break down the following summary per city type. 
+The results will break down the following summary per city type:
 
 <img src="Analysis/per_city_summary.png" alt="Per City Summary">
 
 <B><li>Total Rides per City Type </li></B>
-[Groupby() with ["type"] and ["ride_id"] - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_district_summary.png)
 
 <img src="Resources/rides_per_city_type.png" alt="Total Rides per City Type">
 
 The total ride counts per city type (defined as Rural, Suburban, and Urban) show that there is an expected significant increase, 260%, in larger urban areas than in suburban or rural areas. Likewise, the number of total rides significantly decreases, -500%, further looking at the data from rural cities. 
 
 <B><li>Total Drivers per City Type</li></B>
-[Groupby() with ["type"] and ["driver_count"] - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_school_summary.png)
 
 <img src="Resources/drivers_per_city_type.png" alt="Total Drivers per City Type">
 
 The total amount fo drivers per city type supports the data reflecting the amount of rides per city type in that there is a significant increase, 490%, in the total driver count in more populated urban cities and further decreasing, -628%, in the suburban cities and further decreasing in the rural cities.  
 
 <B><li>Total Fares per City Type</li></B>
-[Groupby() with ["type"] and ["fare"] - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_school_summary.png)
 
 <img src="Resources/fare_per_city_type.png" alt="Total Fares per City Type">
 
 Continuing with the trending data that urban cities have the most activity with the ride share app; the total collected fares provide supporting evidence for this conclusion. The total collected fare for the urban cities is 205% more than the rural cities. Additionally, the total collected fares in the suburban cities is 447% more than the rural cities.  
 
 <B><li>Average Fare per Ride per City Type</li></B>
-[Finding average for Fare/City Type - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_school_summary.png)
 
 <img src="Resources/average_fare_per_city_type.png" alt="Average Fare per City Type">
 
 The average fare per city type reflects that the ride per driver dynamic creates lower fares in the more heavily populated urban cities possibly suggesting that there are more rides that are more competitively priced as the urban average fare is 126% less than the suburban cities and the suburban cities are 112% less than the rural cities. 
 
 <B><li>Average Fare per Driver per City Type</li></B>
-[Finding average for Fare/City Type - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_school_summary.png)
 
 <img src="Resources/average_fare_per_driver_per_city_type.png" alt="Average Fare per Driver per City Type">
 
