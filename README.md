@@ -5,6 +5,8 @@ Module 5
 
 Welcome to an exploratory analysis using python scripts with Pandas libraries, Jupiter Notebook, and MatplotLib to create a visualization of a variety of data as it pertains to PyBer, a ride sharing app. By using the data provided providing the amount of rides, the amount of drivers, and the fares paid throughout different city types - this analysis will provide PyBer with the tools to explore how to improve access and create affordability in under serviced areas. 
 
+<img src="Analysis/challenge_fare_summary.png" alt="Average Fare per Driver per City Type">
+
 ## Results
 
 <B><li>Total Rides per City Type </li></B>
@@ -43,7 +45,7 @@ The average fare per city type reflects that the ride per driver dynamic creates
 The average fare per driver per city type displays that there is a higher average for the rural cities' drivers as the fare is 140% higher than the suburban cities and the urban cities' drivers' average fare is 238% higher than the urban cities' drivers.  
   
 
-### Business Recommendation Summary
+## Business Recommendation Summary
 
 The analysis and visualizations offer a look into the different city types to see where there is opportunity to to identify challenges and increase business. A few recommendations are:
 
