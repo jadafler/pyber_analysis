@@ -9,6 +9,10 @@ Welcome to an exploratory analysis using python scripts with Pandas libraries, J
 
 ## Results
 
+The results will break down the following summary per city type. 
+
+<img src="Analysis/per_city_summary.png" alt="Per City Summary">
+
 <B><li>Total Rides per City Type </li></B>
 [Groupby() with ["type"] and ["ride_id"] - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_district_summary.png)
 
